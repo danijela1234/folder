@@ -1,0 +1,2 @@
+# folder
+prebacivanje sa desktopa
